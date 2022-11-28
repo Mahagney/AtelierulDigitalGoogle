@@ -2,7 +2,7 @@ package basics.ch3;
 
 import java.util.Objects;
 
-public class Pair {
+public class Pair extends Object {
     private int value1;
     private int value2;
 
