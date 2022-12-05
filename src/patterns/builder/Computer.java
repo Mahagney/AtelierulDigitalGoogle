@@ -1,5 +1,8 @@
 package patterns.builder;
 
+import java.io.InputStreamReader;
+import java.util.Arrays;
+
 public class Computer {
     private String RAM;
     private boolean bluetooth;
